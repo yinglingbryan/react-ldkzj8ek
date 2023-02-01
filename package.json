@@ -1,0 +1,19 @@
+{
+  "name": "@wcd/yinglingbryan.react-ldkzj8ek",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve p39Y1NTHcUabM4MvOWk6 --open"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "react-to-webcomponent": "^1"
+  },
+  "devDependencies": {
+    "lit-html": "^2"
+  }
+}
